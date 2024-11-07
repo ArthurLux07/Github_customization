@@ -1,9 +1,9 @@
 # Github_customization
 
-<div style="width: 200px;">
-<a href="https://github.com/ArthurLux07/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLux07&langs_count=8" alt="Top Langs" />
-</a>
+<div>
+<a href="https://github.com/mariabalbis/"> 
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariabalbis&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=mariabalbis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
